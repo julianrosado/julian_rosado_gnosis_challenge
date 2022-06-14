@@ -6,7 +6,7 @@
 ## Brainstorm
 ![Brainstorming](https://github.com/julianrosado/julian_rosado_gnosis_challenge/blob/main/1%20-%20Brainstorm.png?raw=true)
 
-Though I only have one "official" entry, I thought you'd like to see how I got there as I experimented a bit as I had it for my own use.
+Though I only have one "official" entry, I thought you'd like to see how I got there as I experimented a bit and had a file for my own use created.
 
 After digesting the guidelines, I took two "base" layouts to quickly build out some announcements off of. Though I did like the initial (first) version, I thought there was something to the second one. After iterating on it a bit I created a version that did everything I wanted it to (regarding motion, depth, readability, etc.) I created a fourth (the bottom) version to see if I was further inspired by being experimental, but I did not like it more than my original selection.
 
